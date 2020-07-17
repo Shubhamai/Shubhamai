@@ -16,15 +16,15 @@ I started programming way back when I was 14, playing with electronics and micro
 
 Currently, I have been working as a Freelancer and Teaching Assistant at [Zero to Mastery](http://zerotomastery.io/).  Helping students who are just getting started into Machine Learning & AI.
 
+
+
 My current goals are to learn the latest advancement in Machine Learning and learn Deep Reinforcement Learning at the end of this year.
 
 
-My stuff & works is all around here and there in this website and Medium Blogs
-<blockquote class="embedly-card"><h4><a href="https://medium.com/@Shubhamai">Shubhamai - Medium</a></h4><p>Read writing from Shubhamai on Medium. Shubhamai . Machine Learning Engineer | Deep Learning 🤖 | Teaching Assistant | Helping students to learn Machine Learning & AI.</p></blockquote>
+My stuff & works is all around here and there in this Website.
 
-
-
-
+<br>
+<br>
 
 India is my home country and i am proud of that.
 
