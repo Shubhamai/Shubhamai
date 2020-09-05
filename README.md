@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhamai-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubhamai/)
 [![Twitter](https://img.shields.io/twitter/follow/Shubhamai?style=flat-square&logo=twitter)](https://twitter.com/Shubhamai)
 [![GitHub](https://img.shields.io/badge/GitHub-Shubhamai-lightgrey?style=flat-square&logo=github)](https://github.com/Shubhamai)
-[![Website](https://img.shields.io/badge/Website-Shubhamai.github.io-red?style=flat-square)](https://shubhamai.github.io/home/)
+[![Website](https://img.shields.io/badge/Website-Shubhamai.github.io-red?style=flat-square)](https://shubhamai.com)
 [![Medium](https://img.shields.io/badge/Medium-Shubhamai-green?style=flat-square&logo=medium)](https://medium.com/@Shubhamai)
 
 
