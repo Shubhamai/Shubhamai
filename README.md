@@ -1,4 +1,5 @@
 ### Hi there 👋 Me Shubhamai
+> Machine Learning Engineer 🧠 • [Instructor](https://www.udemy.com/user/shubham-gupta-403/) 🎓 • Teaching Assistant & Mentor @ [ZTM](https://zerotomastery.io/) • ML Researcher @ [AIcrowd](https://www.aicrowd.com/) • Love Space & Rocketry 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubhamai-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shubhamai/)
 [![Twitter](https://img.shields.io/twitter/follow/Shubhamai?style=flat-square&logo=twitter)](https://twitter.com/Shubhamai)
@@ -7,24 +8,25 @@
 [![Medium](https://img.shields.io/badge/Medium-Shubhamai-green?style=flat-square&logo=medium)](https://medium.com/@Shubhamai)
 
 
-Well, I love robotics and how Machine Learning & AI can be applied to this thing, always seek to learn new stuff from quantum computing, space🌌, robotics 🤖 to the latest research in AI.   
+I am Machine Learning Engineer & Instructor with having a lot of experience with Deep Learning, Computer Vision. 
+
+Currently, I am been working as Machine learning Teaching Assistant @ [Zero to Mastery](https://zerotomastery.io/)) and Machine Learning Research Assistant @ [AIcrowd]((https://www.aicrowd.com/)) . 
+
+I started my journey as an ML Engineer when I discovered Arduino, one of the most popular microcontrollers that can be used anywhere like in hobby projects or in robotics. With programming c++ in Arduino. I started to question myself about how can I increase my software development skills. and that's where I discovered and started learning python & ML,  self-taught. I completed many many courses. You can find all of them [here](https://shubhamai.com/my-story-to-become-machine-learning-engineer-shubhamai/index.html). 
+
+I then started building many projects which you can find [here](https://github.com/Shubhamai) and Then I started freelancing on Fiverr. I got so much experience working with companies and their projects, and go many reviews too like —
+
+> Amazing developer to work with. Great experience, he went above and beyond to create great code that is clean and efficient. Will work with this developer again! - scifundinc
+
+> Shubham is very keen to work on all the aspects mentioned. He takes his time to make the project appealing and accurate. He was very committed to the time limit given and delivered the project before the deadline. His work is commendable and I look forward to take up more projects from him. - swantikalabh
 
 
-I have been Machine learning since more than a year, and currently, making all sorts of projects and products with Machine learning, Deep Learning, computer vision, Deep Reinforcement Learning and possibly Natural Language Processing, and of course, deploying them into the cloud for the world
+ 
 
-I started programming way back when I was 14, playing with electronics and micro-controllers including Arduino, Raspberry PI, servo, LED 💡, and much more. Then it was time to upgrade, so I started learning Python and there was a lot of fun to learn a new programming language, I started learning Machine Learning way back when I was 15 years old, with Deep Learning, Computer Vision, Natural Language Processing and little Reinforcement Learning.
+and many many more...
 
-Currently, I have been working as a Freelancer and Teaching Assistant at [Zero to Mastery](http://zerotomastery.io/).  Helping students who are just getting started into Machine Learning & AI.
+After that I started learning many more skills, ( by the way, you can all of my technical details [here](https://shubhamai.com/experience/) )  like object detection & segmentation, using Detectron2, FastAI, and many advanced techniques in deep learning including working on many kaggle competitions. 
 
+But after that, working for endless months, I finally published my first ever online course, [The Complete Deep Learning & Computer Vision Course](https://www.udemy.com/course/dlcourse/?referralCode=1B0F4190621EDAD897D1) and started my carer as an Instructor.  I made this course keeping in mind that this course is what i wanted when i started to learn Deep Learning & Computer Vision. 
 
-
-My current goals are to learn the latest advancement in Machine Learning and learn Deep Reinforcement Learning at the end of this year.
-
-
-My stuff & works is all around here and there in this Website.
-
-<br>
-<br>
-
-India is my home country and i am proud of that.
-
+And then, here we are...
