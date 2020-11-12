@@ -29,4 +29,6 @@ After that I started learning many more skills, ( by the way, you can all of my 
 
 But after that, working for endless months, I finally published my first ever online course, [The Complete Deep Learning & Computer Vision Course](https://www.udemy.com/course/dlcourse/?referralCode=1B0F4190621EDAD897D1) and started my carer as an Instructor.  I made this course keeping in mind that this course is what i wanted when i started to learn Deep Learning & Computer Vision. 
 
+![](./images/course_img.png)
+
 And then, here we are...
