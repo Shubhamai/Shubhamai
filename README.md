@@ -10,7 +10,7 @@
 
 I am Machine Learning Engineer & Instructor with having a lot of experience with Deep Learning, Computer Vision. 
 
-Currently, I am been working as Machine learning Teaching Assistant @ [Zero to Mastery](https://zerotomastery.io/)) and Machine Learning Research Assistant @ [AIcrowd]((https://www.aicrowd.com/)) . 
+Currently, I am been working as Machine learning Teaching Assistant @ [Zero to Mastery](https://zerotomastery.io/) and Machine Learning Research Assistant @ [AIcrowd]((https://www.aicrowd.com/)) . 
 
 I started my journey as an ML Engineer when I discovered Arduino, one of the most popular microcontrollers that can be used anywhere like in hobby projects or in robotics. With programming c++ in Arduino. I started to question myself about how can I increase my software development skills. and that's where I discovered and started learning python & ML,  self-taught. I completed many many courses. You can find all of them [here](https://shubhamai.com/my-story-to-become-machine-learning-engineer-shubhamai/index.html). 
 
